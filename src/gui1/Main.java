@@ -1,4 +1,7 @@
-
+/*
+Noel Franciscoco Garcia Trejo
+Matricula: 2022580
+*/
 package gui1;
 
 import java.awt.Color;
